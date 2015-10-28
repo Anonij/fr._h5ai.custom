@@ -1,9 +1,8 @@
 ## Installation
 
-Copier les fichiers modifiers dans votre dossier _h5ai.
-Vous retrouverez le dossier complet sur le site de l'auteur : http://larsjung.de
+Copier les fichiers modifiés dans votre dossier _h5ai. Vous retrouverez le dossier complet sur le site de l'auteur : http://larsjung.de
 
-## License du projet initial
+## Licence du projet initial
 
 The MIT License (MIT)
 
